@@ -1,6 +1,27 @@
 ---
 title: Home
 sections:
+  - type: hero_section
+    title: Edit right here
+    subtitle: Optional hero section subtitle
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel.
+    actions:
+      - label: Learn More
+        url: /features
+        style: secondary
+      - label: Try Free
+        url: /pricing
+        style: primary
+    image: images/classic/hero.png
+    image_alt: Hero section placeholder image
+    media_position: left
+    media_width: fifty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
@@ -58,27 +79,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: hero_section
-    title: Edit right here
-    subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-      - label: Try Free
-        url: /pricing
-        style: primary
-    image: images/classic/hero.png
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: features_section
     features:
       - title: >-
